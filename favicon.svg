@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="THE QUORUM">
+  <rect width="16" height="16" fill="#f3eee4"/>
+  <circle cx="7.5" cy="9" r="4.5" fill="none" stroke="#14120e" stroke-width="2"/>
+  <path d="M10.4 12.1 L13.6 15.2" fill="none" stroke="#14120e" stroke-width="2" stroke-linecap="butt"/>
+  <rect x="13" y="1" width="2" height="2" fill="#9e1b12"/>
+</svg>

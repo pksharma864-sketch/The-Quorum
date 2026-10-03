@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "THE QUORUM",
+      "hasCanvas": false,
+      "bodyTextLen": 4050,
+      "bodyTextHash": "e47d133aca0c3eef746be888c85f3f36591923fc9f4fc9f715bd2722ffba1f14",
+      "bodyTextPrefix": "SKIP TO STORIES Delhi 31° Haze·Mumbai 27° Rain·Bengaluru 24° Cle",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "THE QUORUM",
+      "hasCanvas": false,
+      "bodyTextLen": 3931,
+      "bodyTextHash": "2ee65480a6b51eaab6a40cbfc41818f70307529cd0f3576880556250e426f96d",
+      "bodyTextPrefix": "SKIP TO STORIES LATE CITY 00:29:51IST Menu EN | हिं Vol. 02 · No",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
